@@ -37,7 +37,6 @@ A simple web application that changes the background color dynamically when a bu
 
    git clone https://github.com/yourusername/color-flipper.git
 
-  ``
 
 2. Open the index.html file in any modern browser to view the app.
 
